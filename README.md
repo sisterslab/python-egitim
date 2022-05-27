@@ -6,3 +6,6 @@ Sisterslab - Python eğitimi sürecinde haftasonu yapılacak olan eğitim seansl
    * Operatörler
    * Karar Yapıları
    * Döngülere Giriş
+
+2. Hafta Konuları
+   * Döngüler konusunun genel tekrarı ve soru çözümü (Yıldız ile çeşitli üçgen çizimleri (içe içe döngüler ve tek bir döngü ile) yapılmıştır.)
