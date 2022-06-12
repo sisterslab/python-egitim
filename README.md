@@ -15,3 +15,12 @@ Sisterslab - Python eğitimi sürecinde haftasonu yapılacak olan eğitim seansl
    * Fonksiyon soru çözümü
    * Sayı Tahmin Oyunu
    * Taş Kağıt Makas Oyunu
+
+4. Hafta Konuları
+   * Lambda, map, filter
+   * List
+   * Tuple
+
+5. Hafta Konuları
+   * Set
+   * Dictionary
