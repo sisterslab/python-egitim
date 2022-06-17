@@ -4,7 +4,7 @@ Sisterslab - Python eğitimi sürecinde haftasonu yapılacak olan eğitim seansl
 1. Hafta Konuları
    * Python Söz Dizimi
    * Operatörler
-   * Karar Yapıları
+   * Karar Yapıları 
    * Döngülere Giriş
 
 2. Hafta Konuları
