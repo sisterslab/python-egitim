@@ -24,3 +24,5 @@ Sisterslab - Python eğitimi sürecinde haftasonu yapılacak olan eğitim seansl
 5. Hafta Konuları
    * Set
    * Dictionary
+
+6. Ödev Sorularının Çözümü
