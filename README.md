@@ -26,3 +26,5 @@ Sisterslab - Python eğitimi sürecinde haftasonu yapılacak olan eğitim seansl
    * Dictionary
 
 6. Ödev Sorularının Çözümü
+
+7. Temel Dosya İşlemleri
