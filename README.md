@@ -28,3 +28,14 @@ Sisterslab - Python eğitimi sürecinde haftasonu yapılacak olan eğitim seansl
 6. Ödev Sorularının Çözümü
 
 7. Temel Dosya İşlemleri
+
+8. Nesneye Yönelik Programlama
+   * class
+   * object
+   * attributes
+   * metod
+   * Encapsulation
+   * Inheritance
+   * Abstract Class
+   * Overriding
+   * Polymorphism
